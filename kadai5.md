@@ -6,7 +6,7 @@ imagesc(ORG); colormap(gray); colorbar;
 
 ‚É‚æ‚Á‚ÄCŒ´‰æ‘œ‚ğ“Ç‚İ‚İC”’•”Z’W‰æ‘œ‚É•ÏŠ·‚µ‚½Œ‹‰Ê‚ğ}‚P‚É¦‚·D
 
-![Œ´‰æ‘œ](https://user-images.githubusercontent.com/56874442/71596961-c6d8dd00-2b84-11ea-862b-7efa1793a817.png)
+![Œ´‰æ‘œ](https://user-images.githubusercontent.com/56874442/71596961-c6d8dd00-2b84-11ea-862b-7efa1793a817.png)  
 }1 ”’•”Z’W‰æ‘œ
 
 % ”»•Ê•ªÍ–@‚ğ—p‚¢‚½‰æ‘œ“ñ’l‰»  
@@ -34,5 +34,5 @@ end;
 IMG = ORG > max_thres;  
 imagesc(IMG); colormap(gray); colorbar;
 
-![Œ´‰æ‘œ](https://user-images.githubusercontent.com/56874442/71597332-179d0580-2b86-11ea-8e3c-dfda4c4e8422.png)
+![Œ´‰æ‘œ](https://user-images.githubusercontent.com/56874442/71597332-179d0580-2b86-11ea-8e3c-dfda4c4e8422.png)  
 }2 “ñ’l‰»‰æ‘œ

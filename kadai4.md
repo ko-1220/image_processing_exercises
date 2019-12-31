@@ -6,11 +6,11 @@ imagesc(ORG); colormap(gray); colorbar;
 
 ‚É‚æ‚Á‚ÄCŒ´‰æ‘œ‚ğ“Ç‚İ‚İC”’•”Z’W‰æ‘œ‚É•ÏŠ·‚µ‚½Œ‹‰Ê‚ğ}‚P‚É¦‚·D
 
-![Œ´‰æ‘œ](https://user-images.githubusercontent.com/56874442/71596248-25e92280-2b82-11ea-9038-f0523072f259.png)
+![Œ´‰æ‘œ](https://user-images.githubusercontent.com/56874442/71596248-25e92280-2b82-11ea-9038-f0523072f259.png)  
 }1 ”’•”Z’W‰æ‘œ
 
 % ƒqƒXƒgƒOƒ‰ƒ€‚Ì•\¦  
 imhist(ORG);
 
-![Œ´‰æ‘œ](https://user-images.githubusercontent.com/56874442/71596643-72812d80-2b83-11ea-9ef5-1dedbc7523e0.png)
+![Œ´‰æ‘œ](https://user-images.githubusercontent.com/56874442/71596643-72812d80-2b83-11ea-9ef5-1dedbc7523e0.png)  
 }2 ƒqƒXƒgƒOƒ‰ƒ€
